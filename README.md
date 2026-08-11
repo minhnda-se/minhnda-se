@@ -49,14 +49,21 @@
 ## Telemetry & Metrics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenTelemetry-0D0D0D?style=for-the-badge&logo=opentelemetry&logoColor=C7A54A" alt="OpenTelemetry" />
-  <img src="https://img.shields.io/badge/Prometheus-0D0D0D?style=for-the-badge&logo=prometheus&logoColor=C7A54A" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-0D0D0D?style=for-the-badge&logo=grafana&logoColor=C7A54A" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Loki-0D0D0D?style=for-the-badge&logo=grafana&logoColor=C7A54A" alt="Loki" />
-  <img src="https://img.shields.io/badge/Tempo-0D0D0D?style=for-the-badge&logo=grafana&logoColor=C7A54A" alt="Tempo" />
-  <img src="https://img.shields.io/badge/Micrometer-0D0D0D?style=for-the-badge&logo=spring&logoColor=C7A54A" alt="Micrometer" />
-  <img src="https://img.shields.io/badge/Actuator-0D0D0D?style=for-the-badge&logo=springboot&logoColor=C7A54A" alt="Actuator" />
-  <img src="https://img.shields.io/badge/Resilience4j-0D0D0D?style=for-the-badge&logo=spring&logoColor=C7A54A" alt="Resilience4j" />
+  <img src="https://img.shields.io/badge/.NET_Core-0D0D0D?style=for-the-badge&logo=dotnet&logoColor=C7A54A" alt=".NET Core" />
+  <img src="https://img.shields.io/badge/C%23-0D0D0D?style=for-the-badge&logo=csharp&logoColor=C7A54A" alt="C#" />
+  <img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=C7A54A" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=C7A54A" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-0D0D0D?style=for-the-badge&logo=nextdotjs&logoColor=C7A54A" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Playwright-0D0D0D?style=for-the-badge&logo=playwright&logoColor=C7A54A" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Cucumber-0D0D0D?style=for-the-badge&logo=cucumber&logoColor=C7A54A" alt="Cucumber" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=C7A54A" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-0D0D0D?style=for-the-badge&logo=mongodb&logoColor=C7A54A" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-0D0D0D?style=for-the-badge&logo=redis&logoColor=C7A54A" alt="Redis" />
+  <img src="https://img.shields.io/badge/RabbitMQ-0D0D0D?style=for-the-badge&logo=rabbitmq&logoColor=C7A54A" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=C7A54A" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-0D0D0D?style=for-the-badge&logo=githubactions&logoColor=C7A54A" alt="GitHub Actions" />
 </p>
 
 <p align="center">
