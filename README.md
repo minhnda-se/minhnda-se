@@ -6,7 +6,7 @@
 <h3 align="center">Software Engineer | QA Automation Engineer | Full Stack Developer</h3>
 
 <p align="center">
-  I am a Software Engineering student passionate about building modern software products and high-quality automation frameworks. I believe software quality must be built into every stage of development, from architecture design to automated testing and CI/CD pipelines.
+  I am a Software Engineering passionate about building modern software products and high-quality automation frameworks. I believe software quality must be built into every stage of development, from architecture design to automated testing and CI/CD pipelines.
 </p>
 
 <p align="center">
@@ -90,14 +90,9 @@ I aspire to become a versatile Software Engineer with strong expertise in **Auto
 
 ## 🐍 GitHub Activity & Metrics
 
-<div align="center" style="position: relative;">
-  <!-- Hình nền grid tùy chọn -->
-  <img src="./assets/cyber-grid.svg" alt="Background Grid" style="position: absolute; top: 0; left: 0; width: 100%; z-index: -1; opacity: 0.5;">
-  
-  <p align="center">
-    
-    <img src="https://raw.githubusercontent.com/minhnda-se/minhnda-se/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="80%">
-  </p>
+<div align="center" style="position: relative;">  
+<img src="https://raw.githubusercontent.com/minhnda-se/minhnda-se/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="80%">
+
   
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=minhnda-se&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="45%">
