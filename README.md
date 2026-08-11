@@ -79,7 +79,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="60%" />
+  <img src="./assets/footer.svg" width="100%" />
 </p>
 
 <p align="right">
