@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="50%" stop-color="#161B22" />
+      <stop offset="100%" stop-color="#0D1117" />
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF" />
+      <stop offset="100%" stop-color="#3FB950" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" rx="10" fill="url(#bg)" stroke="#30363D" stroke-width="1"/>
+  <g fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="2">
+    <path d="M-100 -100 L900 900 M900 -100 L-100 900 M400 -200 L400 400 M-200 100 L1000 100" />
+  </g>
+  <text x="400" y="90" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" font-weight="bold" fill="url(#textGrad)" text-anchor="middle">Nguyễn Đức Anh Minh</text>
+  <text x="400" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#8B949E" text-anchor="middle" letter-spacing="3">SOFTWARE ENGINEER • QA AUTOMATION • FULL STACK</text>
+  <text x="400" y="165" font-family="Consolas, Monaco, monospace" font-size="14" fill="#58A6FF" text-anchor="middle">&lt;code&gt; Build. Test. Scale. &lt;/code&gt;</text>
+</svg>

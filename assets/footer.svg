@@ -1,0 +1,12 @@
+svg xmlns=httpwww.w3.org2000svg viewBox=0 0 800 100 width=100% height=100%
+  defs
+    linearGradient id=footerBg x1=0% y1=0% x2=100% y2=0%
+      stop offset=0% stop-color=#0D1117 stop-opacity=0 
+      stop offset=50% stop-color=#161B22 stop-opacity=0.8 
+      stop offset=100% stop-color=#0D1117 stop-opacity=0 
+    linearGradient
+  defs
+  rect width=800 height=100 fill=url(#footerBg) 
+  text x=400 y=55 font-family=-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif font-size=16 fill=#8B949E text-anchor=middleThanks for visiting! Open for collaborations.text
+  text x=400 y=75 font-family=Consolas, Monaco, monospace font-size=12 fill=#3FB950 text-anchor=middleSystem.exit(0);text
+svg
