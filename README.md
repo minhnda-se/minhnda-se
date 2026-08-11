@@ -1,50 +1,234 @@
-<h1 align="center">Hi there, I'm Anh Minh 👋</h1>
-<h3 align="center">Software QA Engineer | Automation Testing Enthusiast 🚀</h3>
-
-<p align="center">
-  Chuyên gia xây dựng các hệ thống kiểm thử tự động, tối ưu hóa quy trình với Prompt Engineering và phát triển các công cụ tự động hóa thông minh.
-</p>
-
----
-
-### 👨‍💻 Về bản thân tôi:
-- 🔭 Đang phát triển: Các framework Automation Testing áp dụng triệt để nguyên lý OOP (Tính trừu tượng, Tính đóng gói) và các hệ thống kiểm duyệt nội dung (Content Moderation).
-- 🌱 Đang học hỏi & nâng cao: Prompt Engineering chuyên sâu và tiếng Nhật (trình độ N3).
-- 💬 Có thể hỏi tôi về: **Python, Java, Gherkin syntax, API Testing, và tối ưu hóa Test Scripts**.
-- 📫 Liên hệ với tôi qua: [Email](anhminh02111@gmail.com)
-- ⚡ Fun fact: Viết code test cẩn thận đến mức bug cũng phải "khóc thét".
-
----
-
-### 🛠 Tech Stack & Công cụ
-
-<p align="left">
-  <!-- Ngôn ngữ -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <!-- Automation & Testing -->
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Cucumber-23D160?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <!-- Database & Cloud -->
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
----
-
-### 📊 Thống kê GitHub
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhnda-se&layout=compact&theme=radical" alt="Top Langs" />
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Nguyễn Đức Anh Minh
+
+### ⚡ SOFTWARE ENGINEER • QA AUTOMATION ENGINEER • FULL STACK DEVELOPER ⚡
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=1000&lines=Building+Scalable+Software.;QA+Automation+Engineer.;Playwright+%7C+Selenium+%7C+C%23+.%20NET.;Backend+Developer.;Always+Learning+Something+New."/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:6A00FF&height=120&section=header"/>
+
 </div>
 
-<br>
+---
+
+# ⚡ SYSTEM STATUS
+
+```yaml
+Name:              Nguyễn Đức Anh Minh
+Role:              Software Engineer
+Specialization:    QA Automation | Backend | Full Stack
+Location:          Vietnam
+Languages:         Vietnamese | English
+Status:            Online
+Mission:           Building scalable software & automation frameworks
+```
+
+---
+
+# 🧠 ABOUT ME
+
+```text
+> Initializing Developer Profile...
+
+✔ Software Engineering
+✔ Test Automation
+✔ API Testing
+✔ Backend Development
+✔ Microservices
+✔ Cloud Ready
+✔ CI/CD
+✔ AI Enthusiast
+
+System Ready...
+```
+
+---
+
+# 💻 TECH STACK
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhnda-se&theme=radical" alt="GitHub Streak" />
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,ts,js,nodejs,react,nextjs,tailwind,docker,postgres,mysql,mongodb,redis,git,github,linux,visualstudio,vscode,postman"/>
+
+</div>
+
+---
+
+# 🤖 AUTOMATION STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=selenium"/>
+
+</div>
+
+| Category | Technologies |
+|----------|--------------|
+| UI Automation | Playwright, Selenium |
+| API Testing | Postman, REST API |
+| Performance | JMeter |
+| BDD | Cucumber, SpecFlow |
+| Languages | TypeScript, C#, Java |
+| CI/CD | GitHub Actions, Azure DevOps |
+| Design Pattern | POM, Hybrid Framework, Data Driven |
+
+---
+
+# ⚙ SYSTEM ARCHITECTURE
+
+```text
+                 Internet
+                     │
+                     │
+             API Gateway
+                     │
+      ┌──────────────┼──────────────┐
+      │              │              │
+ Auth Service   User Service   AI Service
+      │              │              │
+      └──────────────┼──────────────┘
+                     │
+              PostgreSQL
+                     │
+                  Redis
+                     │
+                RabbitMQ
+                     │
+            Docker Containers
+```
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🤖 Automation Framework | Hybrid Playwright Framework | Playwright + TypeScript |
+| 🏥 Booking Appointment | Full Stack Booking System | .NET + React |
+| 🧠 AI Assistant | AI Memory & Productivity | Next.js + AI |
+| 🔥 REST API | Clean Architecture Backend | ASP.NET Core |
+
+---
+
+# 📊 GITHUB DASHBOARD
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=minhnda-se&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhnda-se&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 STREAK
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=minhnda-se&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=minhnda-se&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📡 DEVELOPER METRICS
+
+```text
+CPU Usage           ████████████████████ 100%
+
+Coding              ████████████████████
+
+Debugging           ████████████████████
+
+Coffee              ███████████████████░
+
+Automation          ████████████████████
+
+Backend             ██████████████████░░
+
+Frontend            ████████████████░░░░
+
+Learning            ████████████████████
+```
+
+---
+
+# 🌌 CURRENT OBJECTIVES
+
+- 🚀 Build enterprise automation frameworks
+- ☁ Learn Cloud Architecture
+- 🤖 AI Engineering
+- ⚡ Microservices
+- 🔥 High Performance APIs
+- 📚 Open Source Contributions
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/minhnda-se/minhnda-se/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌐 CONNECT
+
+<p align="center">
+
+<a href="https://github.com/minhnda-se">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:anhminh02111@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⚡ SYSTEM ONLINE
+
+```text
+██████╗ ███████╗██╗   ██╗
+██╔══██╗██╔════╝██║   ██║
+██║  ██║█████╗  ██║   ██║
+██║  ██║██╔══╝  ╚██╗ ██╔╝
+██████╔╝███████╗ ╚████╔╝
+╚═════╝ ╚══════╝  ╚═══╝
+
+STATUS : ONLINE
+MODE   : CYBERPUNK
+POWER  : MAXIMUM
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F5FF&height=120&section=footer"/>
+
 </div>
