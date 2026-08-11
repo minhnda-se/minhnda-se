@@ -1,12 +1,121 @@
-svg xmlns=httpwww.w3.org2000svg viewBox=0 0 800 100 width=100% height=100%
-  defs
-    linearGradient id=footerBg x1=0% y1=0% x2=100% y2=0%
-      stop offset=0% stop-color=#0D1117 stop-opacity=0 
-      stop offset=50% stop-color=#161B22 stop-opacity=0.8 
-      stop offset=100% stop-color=#0D1117 stop-opacity=0 
-    linearGradient
-  defs
-  rect width=800 height=100 fill=url(#footerBg) 
-  text x=400 y=55 font-family=-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif font-size=16 fill=#8B949E text-anchor=middleThanks for visiting! Open for collaborations.text
-  text x=400 y=75 font-family=Consolas, Monaco, monospace font-size=12 fill=#3FB950 text-anchor=middleSystem.exit(0);text
-svg
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1200 180"
+     width="100%"
+     height="180">
+
+    <defs>
+
+        <!-- Background -->
+        <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
+            <stop offset="50%" stop-color="#161B22" stop-opacity="1"/>
+            <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+        </linearGradient>
+
+        <!-- Cyan -->
+        <linearGradient id="cyan" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#00F5FF"/>
+            <stop offset="100%" stop-color="#00B4D8"/>
+        </linearGradient>
+
+        <!-- Purple -->
+        <linearGradient id="purple" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#7C3AED"/>
+            <stop offset="100%" stop-color="#A855F7"/>
+        </linearGradient>
+
+        <!-- Glow -->
+        <filter id="glow">
+            <feGaussianBlur stdDeviation="3.5" result="blur"/>
+            <feMerge>
+                <feMergeNode in="blur"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+
+    </defs>
+
+    <!-- Background -->
+    <rect width="1200"
+          height="180"
+          fill="url(#bg)"/>
+
+    <!-- Top Border -->
+    <line x1="70"
+          y1="30"
+          x2="1130"
+          y2="30"
+          stroke="url(#cyan)"
+          stroke-width="2"
+          filter="url(#glow)"/>
+
+    <!-- Bottom Border -->
+    <line x1="70"
+          y1="150"
+          x2="1130"
+          y2="150"
+          stroke="url(#purple)"
+          stroke-width="2"
+          filter="url(#glow)"/>
+
+    <!-- Left Corner -->
+    <polyline
+        points="70,30 45,30 45,55"
+        fill="none"
+        stroke="#00F5FF"
+        stroke-width="2"/>
+
+    <!-- Right Corner -->
+    <polyline
+        points="1130,150 1155,150 1155,125"
+        fill="none"
+        stroke="#A855F7"
+        stroke-width="2"/>
+
+    <!-- Title -->
+    <text
+        x="600"
+        y="65"
+        text-anchor="middle"
+        fill="#00F5FF"
+        font-size="22"
+        font-family="'JetBrains Mono', Consolas, monospace"
+        font-weight="700"
+        filter="url(#glow)">
+        TRANSMISSION COMPLETE
+    </text>
+
+    <!-- Subtitle -->
+    <text
+        x="600"
+        y="92"
+        text-anchor="middle"
+        fill="#C9D1D9"
+        font-size="14"
+        font-family="'JetBrains Mono', Consolas, monospace">
+        Thank you for visiting my GitHub profile.
+    </text>
+
+    <!-- Status -->
+    <text
+        x="600"
+        y="116"
+        text-anchor="middle"
+        fill="#3FB950"
+        font-size="13"
+        font-family="'JetBrains Mono', Consolas, monospace">
+        STATUS :: ONLINE • BUILD • TEST • AUTOMATE
+    </text>
+
+    <!-- Bottom -->
+    <text
+        x="600"
+        y="138"
+        text-anchor="middle"
+        fill="#8B949E"
+        font-size="12"
+        font-family="'JetBrains Mono', Consolas, monospace">
+        Connection closed... Awaiting next commit.
+    </text>
+
+</svg>
