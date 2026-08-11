@@ -1,110 +1,110 @@
 <div align="center">
-
-# Nguyễn Đức Anh Minh
-
-### Software Engineer · QA Automation Engineer · Full Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+Scalable+Software;QA+Automation+Engineer;Playwright+%7C+Selenium+%7C+C%23+.NET;Backend+%26+Full+Stack+Developer" alt="Typing SVG" />
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/minhnda-se)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anhminh02111@gmail.com)
-
+  <img src="./assets/title-banner.svg" alt="Nguyễn Đức Anh Minh - Portfolio Banner" width="100%">
 </div>
 
----
-
-## About Me
-
-I'm a software engineer based in Vietnam, focused on QA automation, backend development, and full-stack applications. I enjoy building reliable automation frameworks and clean, maintainable backend systems.
-
-- 🔭 Currently working on enterprise automation frameworks and backend APIs
-- 🌱 Learning cloud architecture and microservices design
-- 💬 Ask me about test automation, API design, or backend architecture
-- 📫 Reach me at **anhminh02111@gmail.com**
-
----
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,ts,js,nodejs,react,nextjs,tailwind,docker,postgres,mysql,mongodb,redis,git,github,linux,vscode,postman" />
-
-</div>
-
-### Automation & Testing
-
-| Category | Technologies |
-|---|---|
-| UI Automation | Playwright, Selenium |
-| API Testing | Postman, REST Assured |
-| Performance Testing | JMeter |
-| BDD | Cucumber, SpecFlow |
-| Languages | TypeScript, C#, Java |
-| CI/CD | GitHub Actions, Azure DevOps |
-| Design Patterns | Page Object Model, Hybrid Framework, Data-Driven Testing |
-
----
-
-## Featured Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| **Automation Framework** | Hybrid UI/API test automation framework | Playwright, TypeScript |
-| **Booking Appointment System** | Full-stack appointment booking application | .NET, React |
-| **AI Assistant** | Productivity assistant with memory and AI integration | Next.js, AI APIs |
-| **REST API Service** | Clean architecture backend service | ASP.NET Core |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=minhnda-se&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhnda-se&layout=compact&theme=default&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=minhnda-se&theme=default&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=minhnda-se&theme=minimal&hide_border=true" />
-
-</div>
-
----
-
-## Current Objectives
-
-- Build enterprise-grade automation frameworks
-- Deepen expertise in cloud architecture
-- Explore AI engineering and applied ML
-- Design high-performance, scalable APIs
-- Contribute to open-source projects
-
----
-
-## Contribution Snake
+<h1 align="center">Hi there 👋, I'm Nguyễn Đức Anh Minh</h1>
+<h3 align="center">Software Engineer | QA Automation Engineer | Full Stack Developer</h3>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/minhnda-se/minhnda-se/output/github-contribution-grid-snake.svg" />
+  I am a Software Engineering student passionate about building modern software products and high-quality automation frameworks. I believe software quality must be built into every stage of development, from architecture design to automated testing and CI/CD pipelines.
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/minhnda-se">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+
+  <a href="mailto:anhminh02111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 <div align="center">
+  <img src="./assets/divider.svg" alt="Divider" width="80%">
+</div>
 
-**Let's connect and build something great.**
+## 🎯 Career Vision
+I aspire to become a versatile Software Engineer with strong expertise in **Automation Engineering, Backend Development, and Software Architecture**. My goal is to build reliable, scalable systems while promoting uncompromising quality through automation, clean engineering practices, and optimized data pipelines.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/minhnda-se)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:anhminh02111@gmail.com)
+## 🛠 Core Expertise & Tech Stack
 
+**Backend & Architecture**
+<p>
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Core">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/RESTful_APIs-005C84?style=flat-square&logo=swagger&logoColor=white" alt="REST API">
+  <img src="https://img.shields.io/badge/Clean_Architecture-333333?style=flat-square" alt="Clean Architecture">
+</p>
+
+**QA Automation & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
+  <img src="https://img.shields.io/badge/Cucumber_BDD-23D96C?style=flat-square&logo=cucumber&logoColor=white" alt="Cucumber">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
+</p>
+
+**Frontend & Database**
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
+
+<div align="center">
+  <img src="./assets/divider.svg" alt="Divider" width="80%">
+</div>
+
+## 🚀 Featured Projects
+
+### 🥇 [SoundMates](#)
+*An AI-powered platform for discovering, creating, and joining live music experiences.*
+* **Architecture:** Microservices, Event-driven communication (RabbitMQ), Real-time interaction.
+* **Responsibilities:** Designed the system architecture and database schema, developed backend services and REST APIs, and implemented robust authentication/authorization. 
+* **Specialized Integrations:** Engineered backend logic capable of handling complex audio data workflows, scalable live session management, and payment integrations.
+* **Tech Stack:** ASP.NET Core, React / Next.js, PostgreSQL, Redis, RabbitMQ, Docker.
+
+### 🥈 [Playwright Hybrid Automation Framework](#)
+*Enterprise-ready automation framework for UI and API testing.*
+* **Features:** Built using the Page Object Model (POM), supporting Data-Driven Testing, BDD, and parallel execution. Designed with a CI-ready architecture for seamless GitHub Actions integration.
+* **Advanced Implementations:** Developed custom utilities for JSON locator management and utilized advanced prompt engineering to automatically generate Gherkin-standard automation test scenarios from structured JSON inputs.
+* **Tech Stack:** Playwright, TypeScript, Cucumber, Node.js.
+
+### 🥉 [LifeOS](#)
+*An AI-powered personal productivity platform designed to manage life, work, and long-term knowledge.*
+* **Features:** AI Memory & Assistant, Task/Calendar management, Habit tracking, and Finance management.
+* **Responsibilities:** Led system architecture, backend/frontend development, and AI feature research to build a cohesive, long-term memory system.
+* **Tech Stack:** Next.js, ASP.NET Core, PostgreSQL, Redis, Docker.
+
+### 📂 Specialized & Utility Projects
+* **REST API Automation Framework:** A reusable API framework supporting authentication, CRUD testing, response validation, and comprehensive reporting.
+* **Automated Content Moderation Engine:** Developed Python-based toxicity check systems utilizing Google Cloud Speech-to-Text to analyze audio transcripts. Implemented dictionary-based regex filters and a strict "Red Zone" zero-tolerance policy for offensive content to automate the approval workflow for digital media.
+
+<div align="center">
+  <img src="./assets/divider.svg" alt="Divider" width="80%">
+</div>
+
+## 🐍 GitHub Activity & Metrics
+
+<div align="center" style="position: relative;">
+  <!-- Hình nền grid tùy chọn -->
+  <img src="./assets/cyber-grid.svg" alt="Background Grid" style="position: absolute; top: 0; left: 0; width: 100%; z-index: -1; opacity: 0.5;">
+  
+  <p align="center">
+    
+    <img src="https://raw.githubusercontent.com/minhnda-se/minhnda-se/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="80%">
+  </p>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=minhnda-se&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="45%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhnda-se&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Top Languages" width="45%">
+  </p>
+</div>
+
+<div align="center">
+  <img src="./assets/footer.svg" alt="Footer Banner" width="100%">
 </div>
