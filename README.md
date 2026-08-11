@@ -46,14 +46,32 @@
   <img src="./assets/divider.svg" width="75%" />
 </p>
 
-## GitHub Activity & Metrics
+## Telemetry & Metrics
 
-<!-- Sử dụng file metrics được sinh ra từ metrics.yml trên nhánh output -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/minhnda-se/minhnda-se/output/github-metrics.svg" alt="GitHub Metrics" width="80%" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-0D0D0D?style=for-the-badge&logo=opentelemetry&logoColor=C7A54A" alt="OpenTelemetry" />
+  <img src="https://img.shields.io/badge/Prometheus-0D0D0D?style=for-the-badge&logo=prometheus&logoColor=C7A54A" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-0D0D0D?style=for-the-badge&logo=grafana&logoColor=C7A54A" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Loki-0D0D0D?style=for-the-badge&logo=grafana&logoColor=C7A54A" alt="Loki" />
+  <img src="https://img.shields.io/badge/Tempo-0D0D0D?style=for-the-badge&logo=grafana&logoColor=C7A54A" alt="Tempo" />
+  <img src="https://img.shields.io/badge/Micrometer-0D0D0D?style=for-the-badge&logo=spring&logoColor=C7A54A" alt="Micrometer" />
+  <img src="https://img.shields.io/badge/Actuator-0D0D0D?style=for-the-badge&logo=springboot&logoColor=C7A54A" alt="Actuator" />
+  <img src="https://img.shields.io/badge/Resilience4j-0D0D0D?style=for-the-badge&logo=spring&logoColor=C7A54A" alt="Resilience4j" />
 </p>
 
-<!-- Sử dụng file snake được sinh ra từ snake.yml trên nhánh output -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhnda-se&theme=github_dark" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=minhnda-se&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minhnda-se&theme=github_dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=minhnda-se&theme=dark&background=0D0D0D&ring=C7A54A&fire=C7A54A&currStreakNum=ECE9E1&currStreakLabel=C7A54A&sideLabels=ECE9E1&sideNums=ECE9E1&hide_border=true" alt="Streak Stats" />
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/minhnda-se/minhnda-se/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
@@ -75,7 +93,7 @@
 
 <br/>
 <p align="center">
-  <em style="color:#C7A54A;">Thanks for stopping by <333</em>
+  <em style="color:#C7A54A;">Thanks for stopping by Ò_ó</em>
 </p>
 
 <p align="center">
